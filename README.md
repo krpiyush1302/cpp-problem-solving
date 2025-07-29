@@ -17,49 +17,34 @@ Organized **week-by-week**, each folder contains problems and small programs tha
 ## 🗂️ Folder Structure
 cpp-from-scratch/<br>
 ├── Week01/<br>
-│   ├── Day01_hello_world.cpp<br>
-│   ├── Day02_variables.cpp<br>
-│   └── ...<br>
-├── Week02/<br>
-│   ├── Day08_for_loop.cpp<br>
-│   └── ...<br>
+│ ├── Day01_basics.cpp<br>
+│ ├── Day02_conditions.cpp<br>
+│ ├── Day03_loops.cpp<br>
+│ ├── Day04_nested_loops.cpp<br>
+│ ├── Day05_functions.cpp<br>
+│ ├── Day06_function_overloading.cpp<br>
+│ ├── Day07_mini_project.cpp<br>
 ├── README.md<br>
-
 
 
 ---
 
 ## 📅 Week-wise Progress<br>
 
-### ✅ Week 1: Basics of C++<br>
+## ✅ Week 1: C++ Basics + Loops + Functions<br>
 
 📁 [`Week01/`](./Week01)<br>
 
-| Day | Topic | Program | Status |<br>
-|-----|-------|---------|--------|<br>
-| 1   | Hello World | `hello_world.cpp` | ✅ |<br>
-| 2   | Variables & Data Types | `variables.cpp` | ✅ |<br>
-| 3   | Input/Output | `cin_cout.cpp` | ✅ |<br>
-| 4   | Operators | `operators.cpp` | ✅ |<br>
-| 5   | If-Else Statements | `if_else.cpp` | ✅ |<br>
-| 6   | Switch Case | `switch_case.cpp` | ✅ |<br>
-| 7   | Review / Mini Project | `basic_calculator.cpp` | ✅ |<br>
+| Day | Topics Covered | File | Description |<br>
+|-----|----------------|------|-------------|<br>
+| 1   | Hello World, Variables, Input/Output | `Day01_basics.cpp` | First C++ program, data types, `cin` and `cout` usage |<br>
+| 2   | Operators, If-Else, Switch Case | `Day02_conditions.cpp` | Arithmetic, logical operators; decision making |<br>
+| 3   | Loops – For, While, Do-While | `Day03_loops.cpp` | Repetition structures and how they work |<br>
+| 4   | Nested Loops + Patterns | `Day04_nested_loops.cpp` | Basic number and star patterns using loops |<br>
+| 5   | Functions – Basics | `Day05_functions.cpp` | Writing and calling functions, return types, parameters |<br>
+| 6   | Function Overloading | `Day06_function_overloading.cpp` | Using same function name with different signatures |<br>
+| 7   | Mini Project – Calculator/Menu | `Day07_mini_project.cpp` | Apply everything in a simple interactive program |<br>
 
----
-
-### ✅ Week 2: Loops & Functions<br>
-
-📁 [`Week02/`](./Week02)<br>
-
-| Day | Topic | Program | Status |<br>
-|-----|-------|---------|--------|<br>
-| 8   | For Loop | `for_loop.cpp` | ✅ |<br>
-| 9   | While Loop | `while_loop.cpp` | ✅ |<br>
-| 10  | Do-While Loop | `do_while.cpp` | ✅ |<br>
-| 11  | Nested Loops | `pattern_printing.cpp` | ✅ |<br>
-| 12  | Functions Basics | `functions.cpp` | ✅ |<br>
-| 13  | Function with Return | `sum_function.cpp` | ✅ |<br>
-| 14  | Mini Project / Practice | `menu_driven_program.cpp` | ✅ |<br>
 
 ---
 ## 🧠 Topics Planned<br>
