@@ -21,5 +21,13 @@ int main() {
         cout<<"Excellent"<<endl;
     } else if(marks<80 && marks >=90) {
         cout<<"Good"<<endl;
+    } else if(marks<70 && marks >=80) {
+        cout<<"Fair"<<endl;
+    } else if(marks<60 && marks >=70)  {
+        cout<<"Meets Expectation"<<endl;
+    } else {
+        cout<<"Below Average"<<endl;
     }
+
+    return 0;
 }
