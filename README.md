@@ -17,11 +17,12 @@ Organized **week-by-week**, each folder contains problems and small programs tha
 ## 🗂️ Folder Structure
 cpp-from-scratch/<br>
 ├── Week01/<br>
-│   ├── basics.cpp<br>
-│   ├── conditions.cpp<br>
-│   ├── loops.cpp<br>
-│   ├── nested_loops.cpp<br>
-│   ├── functions.cpp<br>
+│   ├── basics, input, output<br>
+│   ├── variables, comment<br>
+│   ├── conditions<br>
+│   ├── loops<br>
+│   ├── nested_loops<br>
+│   ├── functions<br>
 │   ├── mini_project.cpp<br>
 ├── README.md<br>
 
