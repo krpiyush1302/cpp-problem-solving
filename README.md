@@ -17,14 +17,15 @@ Organized **week-by-week**, each folder contains problems and small programs tha
 ## 🗂️ Folder Structure
 cpp-from-scratch/<br>
 ├── Week01/<br>
-│ ├── Day01_basics.cpp<br>
-│ ├── Day02_conditions.cpp<br>
-│ ├── Day03_loops.cpp<br>
-│ ├── Day04_nested_loops.cpp<br>
-│ ├── Day05_functions.cpp<br>
-│ ├── Day06_function_overloading.cpp<br>
-│ ├── Day07_mini_project.cpp<br>
+│   ├── basics.cpp<br>
+│   ├── conditions.cpp<br>
+│   ├── loops.cpp<br>
+│   ├── nested_loops.cpp<br>
+│   ├── functions.cpp<br>
+│   ├── function_overloading.cpp<br>
+│   ├── mini_project.cpp<br>
 ├── README.md<br>
+
 
 
 ---
@@ -36,14 +37,13 @@ cpp-from-scratch/<br>
 📁 [`Week01/`](./Week01)<br>
 
 | Day | Topics Covered | File | Description |<br>
-|-----|----------------|------|-------------|<br>
-| 1   | Hello World, Variables, Input/Output | `Day01_basics.cpp` | First C++ program, data types, `cin` and `cout` usage |<br>
-| 2   | Operators, If-Else, Switch Case | `Day02_conditions.cpp` | Arithmetic, logical operators; decision making |<br>
-| 3   | Loops – For, While, Do-While | `Day03_loops.cpp` | Repetition structures and how they work |<br>
-| 4   | Nested Loops + Patterns | `Day04_nested_loops.cpp` | Basic number and star patterns using loops |<br>
-| 5   | Functions – Basics | `Day05_functions.cpp` | Writing and calling functions, return types, parameters |<br>
-| 6   | Function Overloading | `Day06_function_overloading.cpp` | Using same function name with different signatures |<br>
-| 7   | Mini Project – Calculator/Menu | `Day07_mini_project.cpp` | Apply everything in a simple interactive program |<br>
+|----|----------------|------|-------------|<br>
+| 1  | Hello World, Variables, Input/Output | `Day01_basics.cpp` | First C++ program, data types, `cin` and `cout` usage |<br>
+| 2  | Operators, If-Else, Switch Case | `Day02_conditions.cpp` | Arithmetic, logical operators; decision making |<br>
+| 3  | Loops – For, While, Do-While | `Day03_loops.cpp` | Repetition structures and how they work |<br>
+| 4  | Nested Loops + Patterns | `Day04_nested_loops.cpp` | Basic number and star patterns using loops |<br>
+| 5  | Functions – Basics | `Day05_functions.cpp` | Writing and calling functions, return types, parameters |<br>
+| 6  | Mini Project – Calculator/Menu | `Day07_mini_project.cpp` | Apply everything in a simple interactive program |<br>
 
 
 ---
